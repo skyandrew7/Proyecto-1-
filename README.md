@@ -138,6 +138,8 @@ kf = KFold(n_splits=5, shuffle=True, random_state=42)
 X = juegos_matrix
 y = df_reviews_sample['recommend']
 
+## El archivo general es un pipeline del proceso que hay que seguir para procesar los datasets
+
 Ansioso de escuchar comentarios o sugerencias.
 
 Feel free to give any kind of advice!
