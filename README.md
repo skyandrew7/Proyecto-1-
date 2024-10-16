@@ -137,3 +137,7 @@ print(recomendar_juegos(item_id_example))
 kf = KFold(n_splits=5, shuffle=True, random_state=42)
 X = juegos_matrix
 y = df_reviews_sample['recommend']
+
+Ansioso de escuchar comentarios o sugerencias.
+
+Feel free to give any kind of advice!
