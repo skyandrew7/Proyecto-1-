@@ -15,7 +15,7 @@ Al ser 3 datasets se hace un analisis individual de cada dataset por separado.
 
 ##ETL
 
-![image](https://github.com/user-attachments/assets/b7750e98-a460-4386-a91d-365f42243df6)
+
 
 + Se observan varios errores de tipo de datos ademas de un dataset con muchas dimensiones.
 
